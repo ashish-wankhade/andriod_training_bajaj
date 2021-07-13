@@ -1,6 +1,14 @@
 <resources>
-    <string name="app_name">training_day4</string>
+    <string name="app_name">Bajaj Login</string>
     <string name="enter_name">enter name</string>
     <string name="enter_password">enter password</string>
     <string name="remeber_me">remeber me</string>
+
+    <string name="aff1">monday</string>
+    <string name="aff2">tuesday</string>
+    <string name="aff3">wednesday</string>
+    <string name="aff4">thursday</string>
+    <string name="aff5">friday</string>
+    <string name="aff6">saturday</string>
+
 </resources>

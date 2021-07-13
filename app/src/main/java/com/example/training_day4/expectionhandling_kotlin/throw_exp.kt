@@ -6,7 +6,11 @@ class throw_exp {
 }
 
 fun main() {
-    println(age(11))
+    try {
+        println(age(11))
+    } catch (e: Exception) {
+        println(e.message)
+    }
     println("Validation Done")
 }
 

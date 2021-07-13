@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="day_7_font_size">
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">30sp</item>
+        <item name="android:textColor">@color/design_default_color_on_secondary</item>
+    </style>
+    <style name="extracolor" parent="day_7_font_size">
+        <item name="android:textColor">@color/teal_200</item>
+    </style>
+</resources>
